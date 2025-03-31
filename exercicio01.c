@@ -16,8 +16,12 @@ resultado3 = resultado1 * resultado2;
 // 4. Fazendo operações matemáticas
 printf("O resultado de %d x %d é: %d\n", numero1, numero2, resultado1);
 printf("O resultado de %d - %d é: %d\n", numero1, numero2, resultado2);
-printf("O Multiplicando %d * %d temos: %d\n", resultado1, resultado2, resultado3);
 
+// 5. Adicionando mais uma operação a partir do PC
+printf("O Multiplicando %d * %d temos: %d\n\n", resultado1, resultado2, resultado3);
+
+// 6. Adicionando Finalização a partir do Github
+printf("Você visualizou todos os resultados.\n\nMEUS PARABÉNS!");
 return 0;
 
 }
