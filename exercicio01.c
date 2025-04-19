@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 // EXERCÍCIOS FEITOS EM LIGUAGEM C PARA TESTAR INTEGRAÇÃO ENTRE VS CODE E GITHUB
-// versao_1_pc
+// versao_2_git
 
 int main() {
 // 1. Iniciando o código vazio.
